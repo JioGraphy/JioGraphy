@@ -4,8 +4,6 @@ I am George Estellore, a DevOps Cloud Engineer at Consulting Firm 🏢 ☁️. <
 2x AWS Cloud Certified <br>
 > DevOps • Cloud Computing • Python • Back-end • Infrastructure • Automation • CI/CD
 
-<br>
-
 - 🏳️‍🌈 Pronouns: he/him
 - ☁️ AWS Certification
    - [AWS Cloud Practitioner (CLF-02)](https://www.credly.com/badges/949af3ae-4fd7-44f2-8b4f-f4e005431106/linked_in)  
