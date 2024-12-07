@@ -1,4 +1,3 @@
-
 # Hi there 👋 
 
 I am **George Estellore**, a **DevOps Cloud Engineer** at Consulting Firm 🏢 ☁️.  
@@ -16,8 +15,6 @@ I am **George Estellore**, a **DevOps Cloud Engineer** at Consulting Firm 🏢 �
 - 📫 **How to reach me**:  
    - **Email**: [estelloregeo.pd@gmail.com](mailto:estelloregeo.pd@gmail.com)  
    - **LinkedIn**: [George Estellore](https://www.linkedin.com/in/george-iii-estellore/)
- 
-## Tech Stack 💻
 
 ## Tech Stack 💻
 
@@ -35,14 +32,10 @@ I am **George Estellore**, a **DevOps Cloud Engineer** at Consulting Firm 🏢 �
 - **Automation**  ![Ansible](https://img.shields.io/badge/-Ansible-0A7F7D?logo=ansible&logoColor=white)
 - **CSS**         ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 - **HTML**        ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-- **Java**        ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- **C**           ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-- **C++**         ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 - **Microservices** ![Microservices](https://img.shields.io/badge/-Microservices-009688?logo=docker&logoColor=white)
 - **Git**         ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 - **GitHub**      ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 - **Security**    ![Security](https://img.shields.io/badge/-Security-FF5733?logo=security&logoColor=white)
-
 
 ## Certifications 🏅
 - **AWS Cloud Practitioner (CLF-02)**  
@@ -50,7 +43,6 @@ I am **George Estellore**, a **DevOps Cloud Engineer** at Consulting Firm 🏢 �
 
 - **AWS Solutions Architect - Associate (SAA-CO3)**  
    [![AWS Solutions Architect Badge](https://img.shields.io/badge/-AWS%20Solutions%20Architect%20Associate-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/0c452df7-4d8e-4c8d-81cd-91d15892347a)
-
 
 ## Contact 📩
 - **Email**: [estelloregeo.pd@gmail.com](mailto:estelloregeo.pd@gmail.com)
