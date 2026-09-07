@@ -1,9 +1,7 @@
 # Hi there 👋 
 
-I am **George Estellore**, a **DevOps Cloud Engineer**.  
-2x AWS Cloud Certified  
+![image alt](https://github.com/JioGraphy/Assets/blob/b2540439e1a6537d43d1fb862a00e6c22ec09dde/Images/banner-github.jpg)
 
-> **DevOps** • **Cloud Computing** • **Python** • **Back-end** • **Infrastructure** • **Automation** • **CI/CD**
 
 - 🏳️‍🌈 **Pronouns**: he/him
 - 💬 **Ask me about**:
