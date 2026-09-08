@@ -24,7 +24,7 @@ He is particularly interested in the space where design meets technology and eng
 <tr>
 <td align="center" width="33%" style="border: none;">
 
-###  Cloud ㆍ Infrastructure
+Cloud ㆍ Infrastructure
 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/AZURE-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -32,12 +32,14 @@ He is particularly interested in the space where design meets technology and eng
 <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/HELM-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/WINDOWS-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 
 </td>
 
 <td align="center" width="33%" style="border: none;">
 
-###  DevOps ㆍ Automation
+DevOps ㆍ Automation
 
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -50,13 +52,12 @@ He is particularly interested in the space where design meets technology and eng
 
 <td align="center" width="33%" style="border: none;">
 
-###  Security ㆍ Observability
+Security ㆍ Observability
 
 <img src="https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
 <img src="https://img.shields.io/badge/SECURITY-FF5733?style=for-the-badge&logo=shield&logoColor=white" />
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/WINDOWS-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+
 
 </td>
 </tr>
@@ -65,7 +66,7 @@ He is particularly interested in the space where design meets technology and eng
 <tr>
 <td align="center" style="border: none;">
 
-###  Data ㆍ APIs
+Data ㆍ APIs
 
 <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -75,7 +76,7 @@ He is particularly interested in the space where design meets technology and eng
 
 <td align="center" style="border: none;">
 
-###  Architecture
+Architecture
 
 <img src="https://img.shields.io/badge/MICROSERVICES-009688?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/NETWORKING-1679A7?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -84,7 +85,7 @@ He is particularly interested in the space where design meets technology and eng
 
 <td align="center" style="border: none;">
 
-###  Web
+Web
 
 <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
