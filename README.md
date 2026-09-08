@@ -1,9 +1,14 @@
 # Hello, World 🐱‍💻
 
-![image alt](https://github.com/JioGraphy/Assets/blob/b2540439e1a6537d43d1fb862a00e6c22ec09dde/Images/banner-github.jpg)
+![Alt text](https://github.com/JioGraphy/Assets/blob/main/Banner-GIF.gif)
+
+![]
+
 
 ## About me
 > **Technology** should improve your life, not become your life
+
+
 
 
 ## Tech Stack 💻
