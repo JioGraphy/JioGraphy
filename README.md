@@ -2,7 +2,7 @@
 
 ![Alt text](https://github.com/JioGraphy/Assets/blob/main/Banner-GIF.gif)
 
-![]
+
 
 
 ## About me
