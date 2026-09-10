@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/JioGraphy/Assets/blob/main/Banner-GIF.gif" width="1000" height="380" />
+<img src="https://github.com/JioGraphy/Assets/blob/main/Banner-GIF.gif" width="1000" height="400" />
 
 
 ## About me
@@ -104,13 +104,9 @@ Web
   <img src="https://github.com/JioGraphy/Assets/blob/57f3dfe4496a39b7d1de6c660f1fd0c4abeb4873/Images/aws-sol-arch-badge.png" width="100" height="100" />
 </p>
 
-## Contact 📩
-- **Email**: [estelloregeo.pd@gmail.com](mailto:estelloregeo.pd@gmail.com)
-- **LinkedIn**: [George Estellore](https://www.linkedin.com/in/george-iii-estellore/)
 
 
-
-## Get in touch ☕
+## Outside the Terminal ☕
 - 🏳️‍🌈 **Pronouns**: he/him
 - 💬 **Ask me about**:
    - [Music](link-to-topic) 🎶  
