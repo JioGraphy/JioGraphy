@@ -1,8 +1,8 @@
 # Hello, World!
 
-![Alt text](https://github.com/JioGraphy/Assets/blob/main/Banner-GIF.gif)
 
 
+<img src="https://github.com/JioGraphy/Assets/blob/main/Banner-GIF.gif" width="1000" height="380" />
 
 
 ## About me
