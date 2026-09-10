@@ -92,19 +92,17 @@ Web
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </td>
+
 </tr>
 </table>
 
 
-
-
 ## Certifications 🏅
- **AWS Cloud Practitioner (CLF-02)**  
-   [![AWS Cloud Practitioner Badge](https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/949af3ae-4fd7-44f2-8b4f-f4e005431106/linked_in)
 
- **AWS Solutions Architect - Associate (SAA-CO3)**  
-   [![AWS Solutions Architect Badge](https://img.shields.io/badge/-AWS%20Solutions%20Architect%20Associate-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/0c452df7-4d8e-4c8d-81cd-91d15892347a)
-
+<p align="center">
+  <img src="https://github.com/JioGraphy/Assets/blob/57f3dfe4496a39b7d1de6c660f1fd0c4abeb4873/Images/aws-cloud-practitioner-badge.png" width="100" height="100" />
+  <img src="https://github.com/JioGraphy/Assets/blob/57f3dfe4496a39b7d1de6c660f1fd0c4abeb4873/Images/aws-sol-arch-badge.png" width="100" height="100" />
+</p>
 
 ## Contact 📩
 - **Email**: [estelloregeo.pd@gmail.com](mailto:estelloregeo.pd@gmail.com)
